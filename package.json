@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wajatimur/node-phonenumber.git"
+    "url": "https://github.com/pagerinc/node-phonenumber.git"
   },
   "engines": {
     "node": ">= 0.10"
